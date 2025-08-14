@@ -1,2 +1,4 @@
-# search-matriz
-Card search-matriz system open-source in website php + 700k db 
+# Search Matriz
+nao tem tutolial, nu tem galantia
+
+by akiralofy | t.me/conexaoamex | lofygang
